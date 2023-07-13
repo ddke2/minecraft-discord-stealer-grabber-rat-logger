@@ -1,1 +1,1 @@
-#paste webhook in this line encodes automatically to base64
+#paste webhook in this line
